@@ -1,4 +1,9 @@
 # Medical Insurance Cost Prediction — Full ML Project
+## 🚀 Live Demo
+
+Try the deployed application here:
+
+👉 [Medical Insurance Cost Prediction – Live App](https://medical-insurance-ml-ratul.streamlit.app/)
 
 ## Dataset
 Public CSV: https://raw.githubusercontent.com/JovianML/opendatasets/master/data/medical-charges.csv
